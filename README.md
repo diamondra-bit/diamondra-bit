@@ -1,3 +1,4 @@
+![logo](https://github.com/diamondra-bit/diamondra-bit/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Diamondra Nirina</h1>
 <h3 align="center"> ✨ Creative Software Engineering Student Maestro ✨</h3>
 
