@@ -1,6 +1,6 @@
-![logo](https://github.com/diamondra-bit/diamondra-bit/blob/main/banner.png?raw=true)
-<h1 align="center">Hi 👋, I'm Diamondra Nirina</h1>
-<h3 align="center"> ✨ Creative Software Engineering Student Maestro ✨</h3>
+
+<h1 align="center">Hi, I'm Diamondra Nirina</h1>
+<h3 align="center">  Creative Software Engineering Student Maestro </h3>
 
 
 💬 I’m passionate about web development, specializing in JavaScript. This language empowers me to create interactive and dynamic applications that deliver exceptional user experiences.
