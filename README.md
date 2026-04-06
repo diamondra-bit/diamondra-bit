@@ -5,7 +5,7 @@
 
 💬 I’m passionate about web development, specializing in JavaScript. This language empowers me to create interactive and dynamic applications that deliver exceptional user experiences.
 
-👨‍💻Explore all of my projects at [https://diamondra.netlify.app](https://diamondra.netlify.app)
+👨‍💻Explore all of my projects at [https://diams-portfolio.vercel.app/](https://diams-portfolio.vercel.app)
 
 📫 How to reach me **diamsnirina@gmail.com**
 
